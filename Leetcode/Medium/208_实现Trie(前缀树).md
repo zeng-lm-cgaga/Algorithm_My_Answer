@@ -1,4 +1,4 @@
-# Leetcode ：207.课程表
+# Leetcode ：208. 实现Trie（前缀树）
 
 ## 一、题目链接
 # [LeetCode 208. 实现Trie（前缀树）](https://leetcode.cn/problems/implement-trie-prefix-tree/description/?envType=study-plan-v2&envId=top-100-liked)
@@ -14,7 +14,7 @@
 
 ### 2. 代码实现
 ```C++
-# 深度优先算法：
+# Trie树简单实现：
 class Trie {
 private:
     vector<Trie*> children;
