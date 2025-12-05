@@ -1,7 +1,7 @@
 # Leetcode ：207.课程表
 
 ## 一、题目链接
-# 示例：[LeetCode 208. 实现Trie（前缀树）](https://leetcode.cn/problems/implement-trie-prefix-tree/description/?envType=study-plan-v2&envId=top-100-liked)
+# [LeetCode 208. 实现Trie（前缀树）](https://leetcode.cn/problems/implement-trie-prefix-tree/description/?envType=study-plan-v2&envId=top-100-liked)
 
 ## 二、题目描述
 完善Trie类的初始化，插入，查找字符串和查找前缀的函数
