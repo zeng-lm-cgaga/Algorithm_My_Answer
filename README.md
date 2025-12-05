@@ -8,7 +8,6 @@
 <img src="https://img.shields.io/badge/代码随想录-一刷完成-10BE5B?style=flat-square&logo=codesandbox&logoColor=white" alt="代码随想录"/>
 <img src="https://img.shields.io/badge/Day Streak-🔥 持续更新中-EA3323?style=flat-square" alt="streak"/>
 
-<img width="800" src="https://github.com/user-attachments/assets/0e308d21-5f24-4f9f-9c29-9f9f9f9f9f9f" alt="banner"/>
 
 </div>
 
@@ -40,4 +39,5 @@
 
 ```text
 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥  连续打卡中...
+
 
