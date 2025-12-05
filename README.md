@@ -20,11 +20,7 @@
 | LeetCode Hot100 | 60 / 100             | 进行中 🔥     |
 | 代码随想录       | 一刷已完结            | ✅ 完成       |
 
-<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=你的用户名&label=Views&color=brightgreen&style=flat-square" alt="views"/>
-
-</div>
 
 ---
 
@@ -39,5 +35,6 @@
 
 ```text
 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥  连续打卡中...
+
 
 
