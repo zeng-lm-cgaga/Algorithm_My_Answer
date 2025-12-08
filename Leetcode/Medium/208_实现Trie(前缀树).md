@@ -13,8 +13,9 @@
 
 
 ### 2. 代码实现
+#### Trie树简单实现：
 ```C++
-# Trie树简单实现：
+
 class Trie {
 private:
     vector<Trie*> children;
@@ -61,3 +62,4 @@ public:
  * bool param_2 = obj->search(word);
  * bool param_3 = obj->startsWith(prefix);
  */
+ ```
